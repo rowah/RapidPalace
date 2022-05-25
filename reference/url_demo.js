@@ -8,3 +8,4 @@ console.log(myUrl.host);
 
 //HostaNAME (DOESNT GET THE PORT)
 console.log(myUrl.hostname);
+console.log(myUrl.pathname);
