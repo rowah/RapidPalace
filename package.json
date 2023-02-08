@@ -1,0 +1,25 @@
+{
+  "name": "rapidpalace",
+  "version": "1.0.0",
+  "description": "## The app helps with online hotel bookings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rowah/nodejscrash.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rowah/nodejscrash/issues"
+  },
+  "homepage": "https://github.com/rowah/nodejscrash#readme",
+  "dependencies": {
+    "amadeus": "^8.0.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
